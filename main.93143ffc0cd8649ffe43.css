@@ -674,8 +674,8 @@ video {
   background-color: rgba(255, 255, 255, 1);
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
 }
-.bg-\[url\(\'\.\/img\/logo2\.webp\'\)\] {
-  background-image: url(adec18b0d1ff8c75e715.webp);
+.bg-\[url\(\'\.\/img\/logo\.webp\'\)\] {
+  background-image: url(9939d3f2351f1a10e709.webp);
 }
 .bg-gradient-to-tr {
   background-image: linear-gradient(to top right, var(--tw-gradient-stops));
@@ -959,4 +959,4 @@ video {
 }
 
 
-/*# sourceMappingURL=style.css.map*/
+/*# sourceMappingURL=main.93143ffc0cd8649ffe43.css.map*/
